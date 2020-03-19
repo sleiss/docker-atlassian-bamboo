@@ -46,12 +46,3 @@ If you see out of date documentation, lack of tests, etc., you can help out by e
 
 Continuous Integration and Continuous Delivery is made possible with the great services from [GitHub](https://github.com) and [CircleCI](https://circleci.com/) written in [Ruby](https://www.ruby-lang.org/), using [RSpec](http://rspec.info/), [Capybara](https://github.com/teamcapybara/capybara/), and [PhantomJS](http://phantomjs.org/) frameworks.
 
-## Donations
-
-Thank you for wanting to help support this repository by supporting me and my supply of hair cuts, tea and coffee, among others.
-
-__Bitcoin:__ `1CT2J3kT1kmj9Z6f4SEvvL3oAkNFQwD5kQ`
-
-__Ethereum:__ `0x82305dcE146b2aCaDA0d63235b84c187A5A23c36`
-
-__Doge:__ `DDKU3SHDu7BcR1P7n5qXGwb8SviiCG5gFX`
